@@ -1,0 +1,8 @@
+{
+    "all_effects_stop": "Todos os efeitos foram parados",
+    "list_empty": "Lista vazia. Cole a lista no animpostfx_list.lua",
+    "toggled_effect": "Trocou para: %s",
+    "stopped_effect": "Efeito parado: %s",
+    "started_effect": "Efeito iniciado: %s",
+    "stopped_automatically": "Parou automaticamente: %s"
+}
